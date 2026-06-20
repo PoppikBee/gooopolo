@@ -43,14 +43,14 @@ Puis ouvrez http://localhost:8000/
 4. **Save**
 
 Au bout d'une minute, le site est en ligne sur :
-`https://capaure385.github.io/gooopolo/`
+`https://PoppikBee.github.io/gooopolo/`
 
 ### Domaine personnalisé (gooopolo.com)
 
 1. Achetez `gooopolo.com` (Namecheap, OVH, ~12 €/an)
 2. Dans le DNS du domaine, ajoutez :
    - 4 enregistrements `A` vers les IP de GitHub Pages
-   - Un `CNAME` `www` → `capaure385.github.io`
+   - Un `CNAME` `www` → `PoppikBee.github.io`
 3. Dans le repo, créez un fichier `CNAME` à la racine contenant `gooopolo.com`
 4. Settings → Pages → Custom domain → `gooopolo.com` → Save → cochez « Enforce HTTPS »
 
