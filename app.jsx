@@ -314,7 +314,7 @@ function Showreel() {
       </div>
 
       <div className="frame" data-reveal>
-        <img src="https://images.unsplash.com/photo-1485846234645-a62644f84728?w=2200&q=85&auto=format&fit=crop" alt="" />
+        <img src="https://images.unsplash/photo-1485846234645-a62644f84728?w=2200&q=85&auto=format&fit=crop" alt="" />
         <div className="overlay">
           <div className="play"><span className="tri"></span></div>
           <div className="play-label">Lire le showreel</div>
@@ -354,7 +354,7 @@ function About() {
   return (
     <section id="apropos" className="about">
       <div className="portrait">
-        <img ref={portraitRef} src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1400&q=85&auto=format&fit=crop" alt="" />
+        <img ref={portraitRef} src="https://images.unsplash/photo-1506794778202-cad84cf45f1d?w=1400&q=85&auto=format&fit=crop" alt="" />
         <div className="portrait-meta">
           <span>04 <span className="gold">·</span> Portrait</span>
         </div>
@@ -383,7 +383,7 @@ function Contact() {
         </div>
         <h2>Une <em>image</em>,<br/>une <em>idée</em> ?</h2>
         <p className="lead">Tournages, collaborations, projets photo — le plus simple est encore d'écrire.</p>
-        <a className="mail" href="mailto:hello@gooopolo.com">hello@gooopolo.com →</a>
+        <a className="mail" href="mailto:hello@gooopolo.fr">hello@gooopolo.fr →</a>
 
         <div className="socials">
           <div className="label">Réseaux</div>
