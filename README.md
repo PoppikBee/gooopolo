@@ -1,7 +1,7 @@
 # gooo.polo
 
 Site portfolio personnel — **Paul-Henri**, photographe & vidéaste.
-[gooopolo.com](https://gooopolo.com)
+[gooopolo.fr](https://gooopolo.fr)
 
 ## À propos
 
@@ -45,14 +45,14 @@ Puis ouvrez http://localhost:8000/
 Au bout d'une minute, le site est en ligne sur :
 `https://PoppikBee.github.io/gooopolo/`
 
-### Domaine personnalisé (gooopolo.com)
+### Domaine personnalisé (gooopolo.fr)
 
-1. Achetez `gooopolo.com` (Namecheap, OVH, ~12 €/an)
+1. Achetez `gooopolo.fr` (Namecheap, OVH, ~12 €/an)
 2. Dans le DNS du domaine, ajoutez :
    - 4 enregistrements `A` vers les IP de GitHub Pages
    - Un `CNAME` `www` → `PoppikBee.github.io`
 3. Dans le repo, créez un fichier `CNAME` à la racine contenant `gooopolo.com`
-4. Settings → Pages → Custom domain → `gooopolo.com` → Save → cochez « Enforce HTTPS »
+4. Settings → Pages → Custom domain → `gooopolo.fr` → Save → cochez « Enforce HTTPS »
 
 ## Structure
 
